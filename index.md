@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## BTS 챗보 예제
+
+안녕하세요, BTS챗봇을 간단히 만드는 예제입니다.
 
 You can use the [editor on GitHub](https://github.com/lsngmn/BTS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
