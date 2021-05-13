@@ -1,10 +1,11 @@
 ## BTS 챗보 예제
 
-안녕하세요, BTS챗봇을 간단히 만드는 예제입니다.
+안녕하세요, BTS챗봇을 간단히 만들어보는 실습입니다.
 
-You can use the [editor on GitHub](https://github.com/lsngmn/BTS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 가장 큰 제목
+##두번째 큰 제목
+###세번째 큰 제목
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
